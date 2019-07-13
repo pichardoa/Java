@@ -99,8 +99,6 @@ public class Notas {
 		for (i=0; i < notasCont; i++) {
 			if (notas[i] > 0) {
 				notasOrd[i] = notas[i];
-				//aux = notas[j];
-				//notasOrd[j] = notas[j];
 			}
 			
 		}
