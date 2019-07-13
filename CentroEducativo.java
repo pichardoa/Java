@@ -20,8 +20,6 @@ public class Notas {
 	static int [] notas = new int [10];
 	
 	
-	
-	
 	public static void main(String[] args) {
 		
 		teclado = new Scanner(System.in);
