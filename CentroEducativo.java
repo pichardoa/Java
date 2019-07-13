@@ -1,9 +1,9 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////
-
-Este programa permite al usuario añadir una o varias notas hasta un máximo de 10 notas.
-Permite ver la media entre dichas notas, ver el total de aprobados y ver en orden creciente,
-cuales son las notas introducidas previamente.
-
+//
+//Este programa permite al usuario añadir una o varias notas hasta un máximo de 10 notas.
+//Permite ver la media entre dichas notas, ver el total de aprobados y ver en orden creciente,
+//cuales son las notas introducidas previamente.
+//
 ////////////////////////////////////////////////////////////////////////////////////////////////
 
 package clase;
